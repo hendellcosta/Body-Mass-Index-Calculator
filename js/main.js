@@ -53,3 +53,5 @@ function setResult (msg, isValid) {
   p.innerHTML = msg;
   result.appendChild(p);
 }
+
+// Hendell Costa
