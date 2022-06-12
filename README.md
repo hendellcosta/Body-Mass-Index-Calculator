@@ -1,9 +1,9 @@
 <h1 align="center">
 	Body Mass Index Calculator
 </h1>
-<p align="center">
-<img src="https://github.com/IgorThierry/nlw-return-impulse/blob/main/.github/Capa.png?raw=true" alt="Banner" />
-</p>
+<!--<p align="center">
+<img src=/>
+</p> -->
 
 
 
